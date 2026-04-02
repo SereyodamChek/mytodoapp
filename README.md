@@ -1,16 +1,109 @@
-# mytodoapp
+# ✅ MyTodoApp – Flutter Task Manager
 
-A new Flutter project.
+### 👨‍💻 Built by Sereyodam
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 About This Project
 
-A few resources to get you started if this is your first Flutter project:
+**MyTodoApp** is a simple and efficient **task management mobile application** built with **Flutter**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project demonstrates how to build a clean and responsive **To-Do application** that helps users manage daily tasks effectively.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Key Features
+
+* 📝 Create and manage tasks
+* ✅ Mark tasks as completed
+* ❌ Delete tasks
+* 📱 Cross-platform support (Android, iOS, Web)
+* 🎨 Clean and minimal UI
+
+---
+
+## 🛠️ Tech Stack
+
+* 💙 **Flutter (Dart)**
+* 🎯 **Material UI**
+
+---
+
+## 📂 Project Structure
+
+```
+/lib       → Main application logic
+/android   → Android configuration
+/ios       → iOS configuration
+/web       → Web support
+/windows   → Windows support
+/macos     → macOS support
+/linux     → Linux support
+/test      → Testing
+/assets    → Static resources
+```
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Install Flutter
+
+👉 [https://docs.flutter.dev/get-started/install](https://docs.flutter.dev/get-started/install)
+
+### 2. Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 3. Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## ▶️ Run on Specific Platforms
+
+```bash
+flutter run -d chrome
+flutter run -d android
+flutter run -d ios
+```
+
+---
+
+## 🎯 Purpose
+
+* Practice building a **task management app**
+* Learn Flutter fundamentals
+* Understand cross-platform mobile development
+
+---
+
+## 📈 Future Improvements
+
+* 💾 Save tasks locally (SQLite / Hive)
+* 🔐 User authentication
+* ☁️ Cloud sync
+* 🎨 UI/UX improvements
+
+---
+
+## ⚠️ Notes
+
+* This is a **learning project**
+* Data may not persist after app restart
+
+---
+
+## 📫 Contact
+
+* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+* Email: [sereyodamc011@gmail.com](mailto:sereyodamc011@gmail.com)
+
+---
+
+⭐ *Building simple apps to solve everyday problems.*
